@@ -1,0 +1,13 @@
+name = "Architectury API"
+filename = "architectury-4.9.84-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/TZRm0P23/architectury-4.9.84-forge.jar"
+hash-format = "sha1"
+hash = "a932a1af3d344144dd95cd202fd5a9478242e01e"
+
+[update]
+[update.modrinth]
+mod-id = "lhGA9TYQ"
+version = "TZRm0P23"

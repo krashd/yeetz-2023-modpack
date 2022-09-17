@@ -1,0 +1,13 @@
+name = "Absent by Design"
+filename = "absentbydesign-1.18.2-1.6.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6uw892ih/versions/1.18.2-1.6.2/absentbydesign-1.18.2-1.6.2.jar"
+hash-format = "sha1"
+hash = "5c0a1e7df79d331b1ce1a75f9c985356294e1a07"
+
+[update]
+[update.modrinth]
+mod-id = "6uw892ih"
+version = "C2EsF6JT"

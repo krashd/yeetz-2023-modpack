@@ -1,0 +1,13 @@
+name = "Excavated Variants"
+filename = "excavated_variants-forge-1.18.2-0.6.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IZaMGxb0/versions/0.6.4-forge/excavated_variants-forge-1.18.2-0.6.4.jar"
+hash-format = "sha1"
+hash = "5242115bda52e2f5f45147c7367d8b52fe52c433"
+
+[update]
+[update.modrinth]
+mod-id = "IZaMGxb0"
+version = "6hwa04Cu"

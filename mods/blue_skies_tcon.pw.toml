@@ -1,0 +1,13 @@
+name = "Blue Skies Tinkers Compat"
+filename = "Blue Skies Tcon 1.18.2-0.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8f0f0c3860096da0736e0f7b968cb19419258416"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3909389
+project-id = 585899

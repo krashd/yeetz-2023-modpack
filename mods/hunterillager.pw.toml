@@ -1,0 +1,13 @@
+name = "Hunter illager"
+filename = "HunterIllager-1.18.2-4.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cd3b788e3068daba50d4b557d7fe2405a4fe8c47"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3752127
+project-id = 318857

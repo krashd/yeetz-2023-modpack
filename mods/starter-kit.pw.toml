@@ -1,0 +1,13 @@
+name = "Starter Kit"
+filename = "starterkit_1.18.2-3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6L3ydNi8/versions/tXhpLTE2/starterkit_1.18.2-3.2.jar"
+hash-format = "sha1"
+hash = "5df976d206c63473c467d4c413c70465a2950a96"
+
+[update]
+[update.modrinth]
+mod-id = "6L3ydNi8"
+version = "tXhpLTE2"

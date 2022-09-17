@@ -1,0 +1,13 @@
+name = "Yeetz 2023"
+author = "Timkerwulf"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0421a15578af9a7965c571516b7699fd03c7d78aab2e1e0ba51f759a863deb2e"
+
+[versions]
+forge = "40.1.80"
+minecraft = "1.18.2"

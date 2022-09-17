@@ -1,0 +1,13 @@
+name = "KubeJS"
+filename = "kubejs-forge-1802.5.5-build.546.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/umyGl7zF/versions/tLGefQzt/kubejs-forge-1802.5.5-build.546.jar"
+hash-format = "sha1"
+hash = "2c13f24472d3b6f2a9c047ad18bc1fe2b00da146"
+
+[update]
+[update.modrinth]
+mod-id = "umyGl7zF"
+version = "tLGefQzt"
