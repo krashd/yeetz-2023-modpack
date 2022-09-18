@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/another-furniture.pw.toml"
-hash = "1b76487df03b97310b7939344ab859ecf66d828ccf7c579f1fc0bbb2e7c2ae1e"
+hash = "099ef5ce3f8da33deb77a69b2d308d4cd44552ce5343468d06ba1713847c7318"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/bygone-nether.pw.toml"
-hash = "55142351d25bc8a6a5280e6e8cdb99423cc8a8e5e4cc1400c76e2c06bc2b5b3a"
+hash = "64f2d412911f2238c0f6efab63a7fba1458dcd5280cd8ee75f30a328c13d93e5"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "f2d594d255ceeadc94b32be5200741b8a5f237fc65848da04e131f2b8970e6fd"
+hash = "a57e921f872596ca19e411d726b7f6db272267f2dd712322a3168ce0f404fd44"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "f4e2a688b20447f37e6cfca27bbf764f3448021a7c93fd54e33fb151bc6fb0db"
+hash = "819dc73d7428db15a2b4750222d8d329a6ec9b8867421dab1b8ce209985b49a6"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "427720b775f93f903d048e5d0d30194711931928aa79e5e35c24d2158303e399"
+hash = "2137a8c4fc4a879a53adde15433e5e795135d93c0dd2ae2d22dff3df5f5af67b"
 metafile = true
 
 [[files]]
@@ -356,8 +356,8 @@ hash = "4f55db635c439342fb5cf8cf0b8edeea6db8a47463c17e5bae3771224c39ebb1"
 metafile = true
 
 [[files]]
-file = "mods/immersiveengineering.pw.toml"
-hash = "e615d5a84d6bb818ad3a08f44eca77fc6cffe883f301b172cc32bd93a7e50390"
+file = "mods/immersive-engineering.pw.toml"
+hash = "56d54fdf30c9a679203b4c3fec19780ee2378aef4a722ad7d239bc221364be01"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "4bdc5ae272863fe14ea6fb6fbfb7c6ce75738572e0b5d7ca46b4d537a6939d18"
+hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
 metafile = true
 
 [[files]]
@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-graveyard-forge.pw.toml"
-hash = "c342796e31f41f106ed8006fc7f49974ea86a222b05cf45098934b1d7b247216"
+hash = "6981acd710de887398237ffa48ca2d012054e85e735016331e83906c8b34b9eb"
 metafile = true
 
 [[files]]
@@ -548,6 +548,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers-structure-add-on.pw.toml"
 hash = "277f342e84421ba39688aee920c71c253cf5f6821f4c4551acd07df58130f3aa"
+metafile = true
+
+[[files]]
+file = "mods/universal-bone-meal-forge.pw.toml"
+hash = "f876e87e0201796386cb9b599b07a31ca22521bbc2b89161daf4657b8e15b76c"
 metafile = true
 
 [[files]]
