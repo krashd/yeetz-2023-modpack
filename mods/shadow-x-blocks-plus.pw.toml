@@ -1,0 +1,13 @@
+name = "Blocks +"
+filename = "Blocks + 1.18.1 - 1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf42aa2689a91cf2d3856226014a4d8f8c362a45"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3604091
+project-id = 473206

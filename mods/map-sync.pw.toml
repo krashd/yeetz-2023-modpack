@@ -1,0 +1,9 @@
+name = "Map-Sync"
+filename = "map-sync-2.0.0-1.18.2-forge.jar"
+side = "client"
+
+[download]
+url = "https://krashd.github.io/yeetz-2023-modpack/mod-jars/map-sync-2.0.0-1.18.2-forge.jar"
+
+hash-format = "sha256"
+hash = "24345f3712c606f28c1c25ea7691b432af2dd3a7bffd257292fe31fa40a79202"
